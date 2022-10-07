@@ -89,10 +89,5 @@ class War {
         return attackResult;
     }
 
-
-
-
-
-
     showStatus() { }
 }
